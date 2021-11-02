@@ -1,0 +1,21 @@
+Circuit: * C:\Users\ADAM\Desktop\ENEL372 Power and Analogue Electronics\Solar Car Project\LTspice files (any issues, please contact Chris Hann)\solar_panel_Rload.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Oct 03 13:51:01 2021
+Total elapsed time: 0.066 seconds.
+
+tnom = 27
+temp = 27
+method = Gear
+totiter = 2100
+traniter = 2090
+tranpoints = 1046
+accept = 1046
+rejected = 0
+matrix size = 3
+fillins = 0
+solver = Normal
+Matrix Compiler1: 104 bytes object code size  0.0/0.0/[0.0]
+Matrix Compiler2: off  [0.0]/0.0/0.0
+
